@@ -1,0 +1,66 @@
+﻿@model LoginViewModel
+
+@{
+    //ViewData["Title"] = "infusync'&trade'; | Login";
+}
+
+
+    <section class="" id="blur">
+        <div class="theme-overlay overlay-01"></div>
+        <div align="center" class="authentication-col-content">
+            @await Html.PartialAsync("_ValidationSummary")
+
+            <form asp-route="Login" class="login-form">
+
+                <input type="hidden" asp-for="ReturnUrl" />
+
+                @if (Model.EnableLocalLogin)
+                {
+                        <span class="login100-form-avatar">
+                            <img src="~/images/LOGO-3D.png" alt="logo" width="300">
+                        </span>
+                        <div class="row">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                        </div>
+                        <div class="row">
+                            <!-- <div class="wrap-input100 validate-input m-t-85 input-field col s12 l12">
+                        <input id="username" type="text" class="input100" placeholder="">
+                        <label for="username">Email</label>
+                    </div> -->
+                            <!-- <div class="col l6">
+                        <div class="form-group">
+                            <b class="left infusync-grey">Email</b>
+                            <input name="Email" placeholder="" class="form-control">
+                        </div>
+                    </div> -->
+                            <div class="input-field col s12">
+                                <input id="email" type="email" asp-for="Username" class="validate input100">
+                                <label asp-for="Username" for="email"><i class="material-icons" style="font-size: 30px;">account_circle</i></label>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <!-- <div class="col l6">
+                        <div class="form-group">
+                            <b class="left infusync-grey">Password</b>
+                            <input name="Password" placeholder="" type="password" class="form-control">
+                        </div>
+                    </div> -->
+                            <!-- <div class="wrap-input100 validate-input m-t-85 input-field col s12 l12">
+                        <input type="password" class="input100" placeholder="" id="password" autocomplete="off">
+                        <label for="password">Password</label>
+                    </div> -->
+                            <div class="input-field col s12">
+                                <input id="password" type="password" asp-for="Password" class="validate input100">
+                                <label asp-for="Password" for="password"><i class="material-icons" style="font-size: 30px;">lock</i></label>
+                            </div>
+                        </div>
+                        <div >
+                            <button class="waves-effect waves-light btn login100-form-btn infusync-brand" name="button" value="login" type="submit">Login</button>
+                        </div>
+                        }
+                    </form>
+
+            </div>
+    </section>
+
+

@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "infusyncApi",
+    "apiSecrets": "",
+    "UserClaims": [
+      "name",
+      "email",
+      "phone_number",
+      "gender",
+      "address",
+      "family_name",
+      "given_name",
+      "middle_name",
+      "infusyncApi"
+    ],
+    "scopes": [
+      {
+        "name": "infusyncApi",
+        "DisplayName": "Full access to infusync Api"
+      }
+    ]
+  },
+  {
+    "Name": "infusyncHMOApi",
+    "apiSecrets": "",
+    "UserClaims": [
+      "name",
+      "email",
+      "phone_number",
+      "gender",
+      "address",
+      "family_name",
+      "given_name",
+      "middle_name",
+      "infusyncHMOApi"
+    ],
+    "scopes": [
+      {
+        "name": "infusyncHMOApi",
+        "DisplayName": "Full access to infusync HMO Api"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " />
+  <ItemGroup>
+    <ProjectReference Include="..\MongoDbCore\AspNetCore.Identity.MongoDbCore.csproj" />
+    <ProjectReference Include="..\infusync.Security\infusync.Security.csproj" />
+    <ProjectReference Include="..\OryxDomainServices\OryxDomainServices.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Employees\" />
+    <Folder Include="HMS\" />
+    <Folder Include="HMO\" />
+    <Folder Include="HMO\Enrollees\" />
+    <Folder Include="HMS\CaseNotes\" />
+    <Folder Include="HMS\Patients\" />
+    <Folder Include="HMO\Billings\" />
+    <Folder Include="HMO\Hospitals\" />
+    <Folder Include="HMO\Tarriffs\" />
+    <Folder Include="HMO\Changes\" />
+    <Folder Include="HMO\Plans\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="General\HobbyLog.cs" />
+    <Compile Remove="General\LanguageLog.cs" />
+    <Compile Remove="General\ProfileInfoLog.cs" />
+    <Compile Remove="General\SkillLog.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Identity.Stores, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MultiTenancyServer" Version="0.9.0" />
+    <PackageReference Include="MultiTenancyServer.EntityFrameworkCore" Version="0.9.0" />
+    <PackageReference Include="MultiTenancyServer.AspNetCore" Version="0.9.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="2.2.0" />
+  </ItemGroup>
+</Project>

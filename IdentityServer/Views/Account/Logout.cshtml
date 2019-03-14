@@ -1,0 +1,26 @@
+﻿@model LogoutViewModel
+
+
+<div class="row mr-3 ml-3">
+    <div class="col-lg-12">
+        <div class="p-3">
+            <h3>Logout<span><i class="fa fa-sign-out float-right"></i></span></h3>
+            <hr style="border-top: 1px dashed #EEE" />
+        </div>
+    </div>
+</div>
+
+<div class="row mr-3 ml-3">
+    <div class="col-lg-6">
+        <p>Would you like to logout of infusync?</p>
+        <form asp-action="Logout">
+            <input type="hidden" name="logoutId" value="@Model.LogoutId" />
+            <fieldset>
+                <div class="form-group">
+                    <button class="btn btn-primary">Yes</button>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,258 @@
+[
+  {
+    "ClientId": "infusyncWebClient",
+    "ClientName": "infusyncWebClient",
+    "RequireConsent": false,
+    "AllowedGrantTypes": [
+      "hybrid",
+      "client_credentials"
+    ],
+    "RedirectUris": [
+      {
+        "RedirectUri": "https://web.infusync.com"
+      },
+      {
+        "RedirectUri": "http://localhost:5002/signin-oidc"
+      }
+    ],
+    "properties": [
+      {
+        "key": "version",
+        "value": "15"
+      }
+    ],
+    "FrontChannelLogoutUri": "https://web.infusync.com/signout-oidc",
+    "PostLogoutRedirectUris": [
+      {
+        "PostLogoutRedirectUri": "https://web.infusync.com/signout-callback-oidc"
+      }
+    ],
+    "AllowOfflineAccess": true,
+    "AllowedScopes": [
+      {
+        "scope": "openid"
+      },
+      {
+        "scope": "profile"
+      },
+      {
+        "scope": "email"
+      },
+      {
+        "scope": "address"
+      },
+      {
+        "scope": "phone"
+      },
+      {
+        "scope": "offline_access"
+      },
+      {
+        "scope": "infusyncApi"
+      },
+      {
+        "scope": "openidc"
+      }
+    ],
+    "AccessTokenLifetime": 1800,
+    "IdentityTokenLifetime": 1800,
+    "AbsoluteRefreshTokenLifetime": 1800,
+    "SlidingRefreshTokenLifetime": 1800,
+    "AllowedCorsOrigins": [
+      {
+        "origin": "https://web.infusync.com"
+      },
+      {
+        "origin": "http://localhost:5002/signin-oidc"
+      }
+    ]
+  },
+  {
+    "ClientId": "InfusyncAngularClient",
+    "ClientName": "InfusyncAngularClient",
+    "RequireConsent": false,
+    "AllowedGrantTypes": [
+      "password",
+      "client_credentials",
+      "implicit"
+    ],
+    "RedirectUris": [
+      {
+        "RedirectUri": "http://localhost:4200"
+      }
+    ],
+    "properties": [
+      {
+        "key": "version",
+        "value": "15"
+      }
+    ],
+    "FrontChannelLogoutUri": "http://localhost:4200/signout-oidc",
+    "PostLogoutRedirectUris": [
+      {
+        "PostLogoutRedirectUri": "http://localhost:5002/signout-callback-oidc"
+      }
+    ],
+    "AllowOfflineAccess": true,
+    "AllowedScopes": [
+      {
+        "scope": "email"
+      },
+      {
+        "scope": "address"
+      },
+      {
+        "scope": "phone"
+      },
+      {
+        "scope": "offline_access"
+      },
+      {
+        "scope": "infusyncApi"
+      },
+      {
+        "scope": "openidc"
+      },
+      {
+        "scope": "openid"
+      }
+    ],
+    "AccessTokenLifetime": 1800,
+    "IdentityTokenLifetime": 1800,
+    "AbsoluteRefreshTokenLifetime": 1800,
+    "SlidingRefreshTokenLifetime": 1800,
+    "AllowedCorsOrigins": [
+      {
+        "origin": "http://localhost:4200"
+      }
+    ]
+  },
+  {
+    "ClientId": "infusynchmoWebClient",
+    "ClientName": "infusynchmoWebClient",
+    "RequireConsent": false,
+    "AllowedGrantTypes": [
+      "hybrid",
+      "client_credentials"
+    ],
+    "RedirectUris": [
+      {
+        "RedirectUri": "https://portal.infusync.com"
+      },
+      {
+        "RedirectUri": "http://localhost:5002/signin-oidc"
+      }
+    ],
+    "properties": [
+      {
+        "key": "version",
+        "value": "15"
+      }
+    ],
+    "FrontChannelLogoutUri": "https://portal.infusync.com/signout-oidc",
+    "PostLogoutRedirectUris": [
+      {
+        "PostLogoutRedirectUri": "https://portal.infusync.com/signout-callback-oidc"
+      }
+    ],
+    "AllowOfflineAccess": true,
+    "AllowedScopes": [
+      {
+        "scope": "openid"
+      },
+      {
+        "scope": "profile"
+      },
+      {
+        "scope": "email"
+      },
+      {
+        "scope": "address"
+      },
+      {
+        "scope": "phone"
+      },
+      {
+        "scope": "offline_access"
+      },
+      {
+        "scope": "infusyncHMOApi"
+      },
+      {
+        "scope": "openidc"
+      }
+    ],
+    "AccessTokenLifetime": 1800,
+    "IdentityTokenLifetime": 1800,
+    "AbsoluteRefreshTokenLifetime": 1800,
+    "SlidingRefreshTokenLifetime": 1800,
+    "AllowedCorsOrigins": [
+      {
+        "origin": "https://portal.infusync.com"
+      },
+      {
+        "origin": "http://localhost:5002/signin-oidc"
+      }
+    ]
+  },
+  {
+    "ClientId": "InfusyncHMOAngularClient",
+    "ClientName": "InfusyncHMOAngularClient",
+    "RequireConsent": false,
+    "AllowedGrantTypes": [
+      "password",
+      "client_credentials",
+      "implicit"
+    ],
+    "RedirectUris": [
+      {
+        "RedirectUri": "http://localhost:4200"
+      }
+    ],
+    "properties": [
+      {
+        "key": "version",
+        "value": "15"
+      }
+    ],
+    "FrontChannelLogoutUri": "http://localhost:4200/signout-oidc",
+    "PostLogoutRedirectUris": [
+      {
+        "PostLogoutRedirectUri": "http://localhost:5002/signout-callback-oidc"
+      }
+    ],
+    "AllowOfflineAccess": true,
+    "AllowedScopes": [
+      {
+        "scope": "email"
+      },
+      {
+        "scope": "address"
+      },
+      {
+        "scope": "phone"
+      },
+      {
+        "scope": "offline_access"
+      },
+      {
+        "scope": "infusyncHMOApi"
+      },
+      {
+        "scope": "openidc"
+      },
+      {
+        "scope": "openid"
+      }
+    ],
+    "AccessTokenLifetime": 1800,
+    "IdentityTokenLifetime": 1800,
+    "AbsoluteRefreshTokenLifetime": 1800,
+    "SlidingRefreshTokenLifetime": 1800,
+    "AllowedCorsOrigins": [
+      {
+        "origin": "http://localhost:4200"
+      }
+    ]
+  }
+]
