@@ -1,0 +1,16 @@
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/OENT.Entities.deps.json
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/OENT.Entities.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/OENT.Entities.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/bin/Debug/netcoreapp2.1/OryxDomainServices.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.csproj.CopyComplete
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OENT.Entities/obj/Debug/netcoreapp2.1/OENT.Entities.pdb

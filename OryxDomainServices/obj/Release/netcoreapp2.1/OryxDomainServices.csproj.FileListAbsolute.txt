@@ -1,0 +1,14 @@
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/OryxDomainServices.deps.json
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/OryxDomainServices.runtimeconfig.json
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/OryxDomainServices.runtimeconfig.dev.json
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/OryxDomainServices.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/bin/Release/netcoreapp2.1/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.csproj.CopyComplete
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/OryxDomainServices/obj/Release/netcoreapp2.1/OryxDomainServices.pdb

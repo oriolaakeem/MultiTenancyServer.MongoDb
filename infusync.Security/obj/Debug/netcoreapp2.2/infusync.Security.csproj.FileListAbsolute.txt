@@ -1,0 +1,9 @@
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/bin/Debug/netcoreapp2.2/infusync.Security.deps.json
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/bin/Debug/netcoreapp2.2/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/bin/Debug/netcoreapp2.2/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/infusync.Security/obj/Debug/netcoreapp2.2/infusync.Security.pdb

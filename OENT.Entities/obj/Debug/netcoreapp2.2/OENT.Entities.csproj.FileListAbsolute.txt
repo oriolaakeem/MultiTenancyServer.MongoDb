@@ -1,0 +1,16 @@
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/OENT.Entities.deps.json
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/OENT.Entities.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/OENT.Entities.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/AspNetCore.Identity.MongoDbCore.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/AspNetCore.Identity.MongoDbCore.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/OryxDomainServices.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/bin/Debug/netcoreapp2.2/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.csproj.CopyComplete
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OENT.Entities/obj/Debug/netcoreapp2.2/OENT.Entities.pdb

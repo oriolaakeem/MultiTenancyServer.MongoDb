@@ -27,6 +27,9 @@
     <PackageReference Include="MultiTenancyServer.EntityFrameworkCore" Version="1.2.0" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="identityserver4_log.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Views\Account\ChangePassword.cshtml" />
     <None Include="Views\Account\CreatePassword.cshtml" />
     <None Include="Views\Account\LoggedOut.cshtml" />

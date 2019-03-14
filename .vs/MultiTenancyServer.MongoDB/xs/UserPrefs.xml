@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E98DAC5C-410E-4FA3-BE39-76AE74442881}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OryxDomainServices/IRepository.cs">
+    <Files>
+      <File FileName="infusync.DataTier/DbContexts/ApplicationDbContext.cs" Line="148" Column="72" />
+      <File FileName="infusync.DataTier/DbContexts/ApplicationUserDbContext.cs" Line="18" Column="26" />
+      <File FileName="OryxDomainServices/IRepository.cs" Line="20" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiTenancyServer.MongoDB" expanded="True">
+            <Node name="infusync.DataTier" expanded="True">
+              <Node name="DbContexts" expanded="True" />
+            </Node>
+            <Node name="OryxDomainServices" expanded="True">
+              <Node name="IRepository.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IdentityServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

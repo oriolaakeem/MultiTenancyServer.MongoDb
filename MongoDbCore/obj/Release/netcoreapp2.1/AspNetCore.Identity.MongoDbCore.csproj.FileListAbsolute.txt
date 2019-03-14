@@ -1,0 +1,12 @@
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/bin/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.deps.json
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/bin/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.runtimeconfig.json
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/bin/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.runtimeconfig.dev.json
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/bin/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/bin/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.Resources.resources
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.csproj.GenerateResource.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/MongoDbCore/obj/Release/netcoreapp2.1/AspNetCore.Identity.MongoDbCore.pdb

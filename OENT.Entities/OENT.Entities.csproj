@@ -7,7 +7,6 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' " />
   <ItemGroup>
     <ProjectReference Include="..\MongoDbCore\AspNetCore.Identity.MongoDbCore.csproj" />
-    <ProjectReference Include="..\infusync.Security\infusync.Security.csproj" />
     <ProjectReference Include="..\OryxDomainServices\OryxDomainServices.csproj" />
   </ItemGroup>
 

@@ -21,7 +21,6 @@
     <ProjectReference Include="..\IdentityServer4.MongoDB\IdentityServer4.MongoDB.csproj" />
     <ProjectReference Include="..\OENT.Entities\OENT.Entities.csproj" />
     <ProjectReference Include="..\OryxDomainServices\OryxDomainServices.csproj" />
-    <ProjectReference Include="..\infusync.Embedded\infusync.Embedded.csproj" />
   </ItemGroup>
 
   <ItemGroup>

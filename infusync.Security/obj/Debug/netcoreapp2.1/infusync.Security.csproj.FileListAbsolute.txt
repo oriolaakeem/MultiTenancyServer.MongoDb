@@ -1,0 +1,9 @@
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/bin/Debug/netcoreapp2.1/infusync.Security.deps.json
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/bin/Debug/netcoreapp2.1/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/bin/Debug/netcoreapp2.1/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/infusync/infusync.Security/obj/Debug/netcoreapp2.1/infusync.Security.pdb

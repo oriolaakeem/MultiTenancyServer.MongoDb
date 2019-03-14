@@ -1,0 +1,14 @@
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/OryxDomainServices.deps.json
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/OryxDomainServices.runtimeconfig.json
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/OryxDomainServices.runtimeconfig.dev.json
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/OryxDomainServices.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/infusync.Security.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/bin/Debug/netcoreapp2.2/infusync.Security.pdb
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.csprojAssemblyReference.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.csproj.CoreCompileInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.AssemblyInfoInputs.cache
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.AssemblyInfo.cs
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.csproj.CopyComplete
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.dll
+/Users/hakeemoriola/Documents/GitHub/MultiTenancyServer.MongoDb/OryxDomainServices/obj/Debug/netcoreapp2.2/OryxDomainServices.pdb
